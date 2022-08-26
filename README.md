@@ -1,6 +1,6 @@
-# projeto-portfolio
+# projeto-portifolio
 
-Projeto para criação de um portfólio de desenvolvedor Web
+Projeto para criação de um portifólio
 
 ## Tarefas
 
