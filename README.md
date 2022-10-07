@@ -1,4 +1,4 @@
-# projeto-portifolio
+# projeto-portfolio
 
 Projeto para criação de um portifólio
 
